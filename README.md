@@ -2,7 +2,10 @@
 
 # 💡InventReadme
 ### InventReadme es una herramienta que automatiza el duro trabajo de hacer un readme utlizando ChatGPT.
-![Certificado](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+
+<h1 align="center"> ![Certificado](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+ </h1>
+
 
 
 # Índice
